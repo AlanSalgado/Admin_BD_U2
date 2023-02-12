@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\bin\Debug\Modelos.dll
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\bin\Debug\Datos.dll
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\bin\Debug\Datos.pdb
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\obj\Debug\Modelos.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\obj\Debug\Modelos.dll
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Modelos\obj\Debug\Modelos.pdb
