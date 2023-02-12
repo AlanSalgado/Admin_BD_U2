@@ -4,3 +4,9 @@ C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Dato
 C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Datos\obj\Debug\Datos.dll
 C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\DBA_U2_PR1\Datos\obj\Debug\Datos.pdb
+C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Datos\bin\Debug\Datos.dll
+C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Datos\bin\Debug\Datos.pdb
+C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Datos\obj\Debug\Datos.dll
+C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Datos\obj\Debug\Datos.pdb
