@@ -28,3 +28,20 @@ C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\GUI\obj\Debug\GUI.csproj.Cor
 C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\GUI\obj\Debug\GUI.exe
 C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\GUI\obj\Debug\GUI.pdb
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\bin\Debug\GUI.exe
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\bin\Debug\GUI.pdb
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\bin\Debug\Modelos.dll
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\bin\Debug\Modelos.pdb
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.frmInicio.resources
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.frmInventario.resources
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.frmAreas.resources
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.frmProductos.resources
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.exe
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\GUI\obj\Debug\GUI.pdb

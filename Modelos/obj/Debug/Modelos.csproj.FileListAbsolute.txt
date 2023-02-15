@@ -16,3 +16,9 @@ C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Modelos\obj\Debug\Modelos.cs
 C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Modelos\obj\Debug\Modelos.csproj.CopyComplete
 C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Modelos\obj\Debug\Modelos.dll
 C:\Users\mexic\source\repos\AlanSalgado\Admin_BD_U2\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\Modelos\bin\Debug\Modelos.dll
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\Modelos\obj\Debug\Modelos.dll
+C:\Users\Lenovo\Documents\Proyectos Visual Studio\AdminBD_U2_PR1\Version 2.0 - 14_02\Admin_BD_U2-c-digo-fuente-software\Modelos\obj\Debug\Modelos.pdb
