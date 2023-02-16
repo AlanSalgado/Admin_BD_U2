@@ -60,7 +60,9 @@
             this.Controls.Add(this.btnAreas);
             this.Controls.Add(this.btnProductos);
             this.Name = "frmInicio";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "INICIO";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmInicio_FormClosed);
             this.ResumeLayout(false);
 
         }

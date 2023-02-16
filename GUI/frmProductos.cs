@@ -8,18 +8,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GUI
-{
-    public partial class frmProductos : Form
-    {
-        public frmProductos()
-        {
+namespace GUI {
+    public partial class frmProductos : Form {
+        public frmProductos() {
             InitializeComponent();
         }
 
-        private void btnAgregar_Click(object sender, EventArgs e)
-        {
-            new frmInventario().ShowDialog();
+        private void btnAgregar_Click(object sender, EventArgs e) {
+            new frmCUProductos().ShowDialog();
+        }
+
+        private void frmProductos_FormClosed(object sender, FormClosedEventArgs e) {
+            frmInicio frm = new frmInicio();
+            frm.Show();
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e) {
+            new frmCUProductos().ShowDialog();
         }
     }
 }

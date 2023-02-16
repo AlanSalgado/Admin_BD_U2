@@ -46,17 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmCUAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCUAreas.Designer.cs">
+      <DependentUpon>frmCUAreas.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmInicio.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmInicio.Designer.cs">
       <DependentUpon>frmInicio.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmInventario.cs">
+    <Compile Include="frmCUProductos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmInventario.Designer.cs">
-      <DependentUpon>frmInventario.cs</DependentUpon>
+    <Compile Include="frmCUProductos.Designer.cs">
+      <DependentUpon>frmCUProductos.cs</DependentUpon>
     </Compile>
     <Compile Include="frmAreas.cs">
       <SubType>Form</SubType>
@@ -72,11 +78,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCUAreas.resx">
+      <DependentUpon>frmCUAreas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmInicio.resx">
       <DependentUpon>frmInicio.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmInventario.resx">
-      <DependentUpon>frmInventario.cs</DependentUpon>
+    <EmbeddedResource Include="frmCUProductos.resx">
+      <DependentUpon>frmCUProductos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmAreas.resx">
       <DependentUpon>frmAreas.cs</DependentUpon>
@@ -108,6 +117,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{ec419a1c-bb63-474d-ac8a-2a8f0043fe70}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Modelos\Modelos.csproj">
       <Project>{9f874830-2b23-4a21-a215-085a8c903a25}</Project>
       <Name>Modelos</Name>
@@ -115,15 +128,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="apps-add.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="edit.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="trash.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
