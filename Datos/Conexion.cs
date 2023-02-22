@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 namespace Datos {
     public class Conexion {
         public static MySqlConnection conexion;
-        static string usuario = "root";
-        static string password = "itsur12345";
-        static string bd = "admbd";
-        static string servidor = "localhost";
+        static string usuario = "Saul2";
+        static string password = "P=0f0uigB#";
+        static string bd = "AdmBD";
+        static string servidor = "192.168.23.49";
         static string puerto = "3306";
 
         public static bool conectar() {

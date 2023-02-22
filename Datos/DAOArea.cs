@@ -43,7 +43,7 @@ namespace Datos {
         public List<string> obtenerAreas() {
             try {
                 if (Conexion.conectar()) {
-                    MySqlCommand comando = new MySqlCommand("select nombre from AREAS where activo=1;");
+                    MySqlCommand comando = new MySqlCommand("select Nombre from AREAS where activo=1;");
                     comando.Connection = Conexion.conexion;
                     MySqlDataAdapter lector = new MySqlDataAdapter(comando);
                     DataTable resultado = new DataTable();
