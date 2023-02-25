@@ -1,0 +1,13 @@
+CREATE DATABASE Practica;
+
+USE Practica;
+
+CREATE TABLE BOOKS(
+	ISBN char(13) primary key,
+	TITULO varchar(45) NOT NULL,
+	AUTOR varchar(45) NOT NULL,
+	SINOPSIS text NOT NULL,
+	EDICION varchar(45) NOT NULL,
+	ANIO_PUBLICACION int NOT NULL,
+	PAIS_PUBLICACION varchar(45) NOT NULL
+);
